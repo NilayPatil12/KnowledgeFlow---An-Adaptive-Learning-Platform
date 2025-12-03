@@ -19,6 +19,26 @@ KnowledgeFlow is an adaptive Learning Management System (LMS) designed to person
 
 ---
 
+## 📸 UI Screenshots
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="UI images/ss1.png" width="45%"/>
+  <img src="UI images/ss2.png" width="45%"/>
+  <img src="UI images/ss3.png" width="45%"/>
+  <img src="UI images/ss4.png" width="45%"/>
+  <img src="UI images/ss5.png" width="45%"/>
+  <img src="UI images/ss6.png" width="45%"/>
+  <img src="UI images/ss7.png" width="45%"/>
+  <img src="UI images/ss8.png" width="45%"/>
+  <img src="UI images/ss9.png" width="45%"/>
+  <img src="UI images/ss10.png" width="45%"/>
+  <img src="UI images/ss11.png" width="45%"/>
+  <img src="UI images/ss12.png" width="45%"/>
+  <img src="UI images/ss13.png" width="45%"/>
+  <img src="UI images/ss14.png" width="45%"/>
+</div>
+
+
 ## ✨ Features
 
 ### 🎓 Learner Features
